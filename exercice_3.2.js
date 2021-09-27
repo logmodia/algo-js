@@ -1,3 +1,5 @@
+//Calculation of a dynamic array numbers average
+
 let arr1=[];
 let sumArr=0;
 let average = 0;
