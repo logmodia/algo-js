@@ -37,6 +37,6 @@ const randomizeCast = (...arr) => {
 console.log(" ");
 console.log("-----------------------------------------------------------------");
 
-console.log("- serie name : " + tvSerie.name + " - Production year : " + tvSerie.prodYear + " - Cast members : " + randomizeCast(...tvSerie.castMembers));
+console.log(`- serie name : ${tvSerie.name} - Production year : ${tvSerie.prodYear} - Cast members : ${randomizeCast(...tvSerie.castMembers)}`);
 
 console.log(" ");
